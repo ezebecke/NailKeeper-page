@@ -51,7 +51,7 @@ features                                  :
     description                           : Set up notifications to take photos and log your progress.
     fontawesome_icon_name                 : bell
 
-  - title                                 : Time Cunter
+  - title                                 : Time Counter
     description                           : Monitor how much time has passed since you quit. Restart the timer if you relapse.
     fontawesome_icon_name                 : stopwatch
   
